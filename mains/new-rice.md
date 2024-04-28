@@ -9,7 +9,7 @@ in the meantime, we prepare the salad
 
 now we make the rice even better
 
-we let it steam of 1 hour
+we let it steam for 1.5 hours
 
 and then we throw everything in the garbage
 
