@@ -7,4 +7,5 @@ then we let the rice steam
 then we wait for some time
 in the meantime, we prepare the salad 
 
+now we make the rice even better
 
