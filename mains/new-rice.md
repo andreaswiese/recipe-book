@@ -11,5 +11,5 @@ now we make the rice even better
 
 we let it steam for 1.5 hours
 
-and then we throw everything in the garbage
+and then we throw everything in the main pot
 
