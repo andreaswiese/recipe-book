@@ -9,3 +9,7 @@ in the meantime, we prepare the salad
 
 now we make the rice even better
 
+we let it steam of 1 hour
+
+and then we throw everything in the garbage
+
