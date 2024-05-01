@@ -25,6 +25,8 @@ some nice recipes.
 > [!WARNING]
 > Critical content demanding immediate user attention due to potential risks.
 
+![Static Badge](https://img.shields.io/badge/My_awesome-text_and_more_text-blue)
+
 
 
 <details>
